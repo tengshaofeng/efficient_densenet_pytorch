@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="55c1dda5-63fc-4a5c-95fe-35c14b959373" name="efficient_densenet" url="http://192.168.4.30">
+        <fileTransfer host="192.168.4.30" port="22" accessType="SFTP" username="tengbq">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
